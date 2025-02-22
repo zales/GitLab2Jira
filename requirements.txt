@@ -1,0 +1,4 @@
+   python-gitlab
+   jira
+   emoji
+   mistletoe
