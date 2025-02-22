@@ -34,8 +34,8 @@ pip install python-gitlab jira emoji mistletoe
 Clone the repository and set up a virtual environment (optional but recommended):
 
 ```bash
-git clone https://github.com/yourusername/gitlab-to-jira-migrator.git
-cd gitlab-to-jira-migrator
+git clone https://github.com/zales/GitLab2Jira.git
+cd GitLab2Jira
 python3 -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```
