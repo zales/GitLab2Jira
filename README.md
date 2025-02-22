@@ -1,7 +1,3 @@
-Below is a sample README.md file along with additional documentation that you can include with your open‑source repository. You can adjust the details (URLs, repository name, etc.) as needed.
-
-README.md
-
 # GitLab to Jira Migrator
 
 The GitLab to Jira Migrator is a Python tool that migrates GitLab issues (both open and closed) to Jira. It handles issue descriptions, comments, attachments, linked issues, and sub-tasks. It also supports converting Markdown (including emoji shortcodes) into Jira Wiki markup and provides persistent mapping to resume interrupted migrations.
